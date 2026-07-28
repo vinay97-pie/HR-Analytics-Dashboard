@@ -152,4 +152,4 @@ Optimize hiring and compensation decisions.
 Support data-driven HR planning with interactive visual analytics.
 
 ** Dashboard Snapshot **
-link:- https://github.com/vinay97-pie/HR-Analytics-Dashboard/blob/main/Dashboard%20Snapshot.png
+link:- ![HR Analytics Dashboard](https://github.com/vinay97-pie/HR-Analytics-Dashboard/blob/main/Dashboard%20Snapshot.png)
